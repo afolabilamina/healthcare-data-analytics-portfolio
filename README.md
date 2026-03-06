@@ -4,7 +4,7 @@ This portfolio demonstrates how clinical domain expertise and data analytics can
 
 Pharmacist transitioning into Clinical Data Analytics, combining healthcare domain expertise with data analysis to generate actionable insights for hospitals, public health systems, and pharmaceutical organisations.
 
-This portfolio demonstrates the application of SQL, healthcare data modelling, and business intelligence tools to analyse clinical outcomes, medication utilisation, and hospital performance.
+This portfolio showcases projects applying SQL, healthcare data modelling, and business intelligence tools to analyse clinical outcomes, medication utilisation, and hospital performance.
 
 ## Core Focus Areas
 
