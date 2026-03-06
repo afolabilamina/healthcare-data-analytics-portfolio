@@ -1,3 +1,5 @@
+This portfolio demonstrates how clinical domain expertise and data analytics can be combined to generate actionable healthcare insights.
+
 # Clinical Data Analytics Portfolio
 
 Pharmacist transitioning into Clinical Data Analytics, combining healthcare domain expertise with data analysis to generate actionable insights for hospitals, public health systems, and pharmaceutical organisations.
